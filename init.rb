@@ -17,6 +17,6 @@ Redmine::Plugin.register :redmine_markdown_extra_viewer do
   author 'TOMITA Masahiro'
   description 'Redmine show Markdown Extra in repository'
   version '0.0.1'
-  url 'http://example.com/path/to/plugin'
+  url 'http://github.com/tmtm/redmine_markdown_extra_viewer'
   author_url 'http://github.com/tmtm'
 end
